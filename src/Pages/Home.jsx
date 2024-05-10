@@ -7,7 +7,7 @@ const Home = () => {
     return (
         <div>
             <Header/>
-            <div className="mt-[100px] mx-auto flex items-center justify-center">
+            <div className="mt-[100px] mb-[80px] mx-auto flex items-center justify-center">
                 <Blogs/>
                 <Pagination/>
             </div>
